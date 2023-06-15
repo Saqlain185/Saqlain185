@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Saqlain185
-- 👀 I’m interested in software development
+- 👋 Hi, I’m @ Maria Nawaz
+- 👀 I’m interested in software development 
 - 🌱 I’m currently learning javascript & java ...
 - 💞️ I’m looking to collaborate with people ...
 
